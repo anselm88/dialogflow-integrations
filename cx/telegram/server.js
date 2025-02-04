@@ -7,7 +7,7 @@
 // const locationId = 'global';
 // const agentId = 'my-agent';
 // const languageCode = 'en'
-// const TELEGRAM_TOKEN='1234567898:ABCdfghTtaD8dfghdfgh45sdf65467M';
+const TELEGRAM_TOKEN='7233608013:AAGZ4feiKMuaiDGC5zCHp9nG-VYMLFrFwnM';
 // const SERVER_URL='https://example.com';
 
 const structProtoToJson =
